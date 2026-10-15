@@ -1,2 +1,2 @@
 # Singularis
-A simulator designed to model the behavior of black holes and their effects on surrounding matter and light.
+A Python-based 3D black hole simulator featuring an accretion disk, gravitational lensing, and interactive camera controls.
